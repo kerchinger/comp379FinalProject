@@ -1,21 +1,3 @@
 #This is where we are going to do the main work for our project from
-
-print("hello?")
-
-#I really hope this is working
-print('hey')
-#HEHEH
-while h = 0:
-    pass
-
-# STILL TRYING TO FIGURE OUT HOW THIS WORKS
-
-
-
-
-
-
-
-
-
-#SO YA
+# I am using Atom as my rexteditor which has integrates git, if you need help using Atom
+#to work with github and the project, I think I have a good understanding of it
