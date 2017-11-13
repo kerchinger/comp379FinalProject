@@ -7,3 +7,15 @@ print('hey')
 #HEHEH
 while h = 0:
     pass
+
+# STILL TRYING TO FIGURE OUT HOW THIS WORKS
+
+
+
+
+
+
+
+
+
+#SO YA
